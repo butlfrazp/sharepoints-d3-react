@@ -1,0 +1,513 @@
+[
+ {
+   "Calculus": "yes",
+   "Fall 2014": "general",
+   "Spring 2015": "none",
+   "Fall 2015": "general",
+   "Total": 14
+ },
+ {
+   "Calculus": "yes",
+   "Fall 2014": "advanced",
+   "Spring 2015": "advanced",
+   "Fall 2015": "advanced",
+   "Total": 990
+ },
+ {
+   "Calculus": "yes",
+   "Fall 2014": "moderate",
+   "Spring 2015": "moderate",
+   "Fall 2015": "moderate",
+   "Total": 625
+ },
+ {
+   "Calculus": "no",
+   "Fall 2014": "general",
+   "Spring 2015": "general",
+   "Fall 2015": "general",
+   "Total": 1129
+ },
+ {
+   "Calculus": "no",
+   "Fall 2014": "advanced",
+   "Spring 2015": "advanced",
+   "Fall 2015": "advanced",
+   "Total": 620
+ },
+ {
+   "Calculus": "no",
+   "Fall 2014": "moderate",
+   "Spring 2015": "moderate",
+   "Fall 2015": "moderate",
+   "Total": 1374
+ },
+ {
+   "Calculus": "no",
+   "Fall 2014": "advanced",
+   "Spring 2015": "moderate",
+   "Fall 2015": "moderate",
+   "Total": 64
+ },
+ {
+   "Calculus": "no",
+   "Fall 2014": "advanced",
+   "Spring 2015": "moderate",
+   "Fall 2015": "advanced",
+   "Total": 1
+ },
+ {
+   "Calculus": "yes",
+   "Fall 2014": "advanced",
+   "Spring 2015": "none",
+   "Fall 2015": "advanced",
+   "Total": 28
+ },
+ {
+   "Calculus": "yes",
+   "Fall 2014": "advanced",
+   "Spring 2015": "moderate",
+   "Fall 2015": "moderate",
+   "Total": 40
+ },
+ {
+   "Calculus": "yes",
+   "Fall 2014": "moderate",
+   "Spring 2015": "moderate",
+   "Fall 2015": "general",
+   "Total": 17
+ },
+ {
+   "Calculus": "yes",
+   "Fall 2014": "general",
+   "Spring 2015": "general",
+   "Fall 2015": "general",
+   "Total": 281
+ },
+ {
+   "Calculus": "no",
+   "Fall 2014": "advanced",
+   "Spring 2015": "advanced",
+   "Fall 2015": "moderate",
+   "Total": 24
+ },
+ {
+   "Calculus": "no",
+   "Fall 2014": "advanced",
+   "Spring 2015": "general",
+   "Fall 2015": "general",
+   "Total": 41
+ },
+ {
+   "Calculus": "no",
+   "Fall 2014": "moderate",
+   "Spring 2015": "moderate",
+   "Fall 2015": "general",
+   "Total": 94
+ },
+ {
+   "Calculus": "no",
+   "Fall 2014": "general",
+   "Spring 2015": "moderate",
+   "Fall 2015": "moderate",
+   "Total": 53
+ },
+ {
+   "Calculus": "yes",
+   "Fall 2014": "moderate",
+   "Spring 2015": "none",
+   "Fall 2015": "general",
+   "Total": 2
+ },
+ {
+   "Calculus": "no",
+   "Fall 2014": "moderate",
+   "Spring 2015": "moderate",
+   "Fall 2015": "advanced",
+   "Total": 18
+ },
+ {
+   "Calculus": "yes",
+   "Fall 2014": "general",
+   "Spring 2015": "moderate",
+   "Fall 2015": "moderate",
+   "Total": 23
+ },
+ {
+   "Calculus": "no",
+   "Fall 2014": "advanced",
+   "Spring 2015": "none",
+   "Fall 2015": "advanced",
+   "Total": 55
+ },
+ {
+   "Calculus": "no",
+   "Fall 2014": "moderate",
+   "Spring 2015": "none",
+   "Fall 2015": "moderate",
+   "Total": 106
+ },
+ {
+   "Calculus": "yes",
+   "Fall 2014": "moderate",
+   "Spring 2015": "moderate",
+   "Fall 2015": "advanced",
+   "Total": 17
+ },
+ {
+   "Calculus": "yes",
+   "Fall 2014": "moderate",
+   "Spring 2015": "advanced",
+   "Fall 2015": "advanced",
+   "Total": 22
+ },
+ {
+   "Calculus": "no",
+   "Fall 2014": "general",
+   "Spring 2015": "none",
+   "Fall 2015": "general",
+   "Total": 105
+ },
+ {
+   "Calculus": "no",
+   "Fall 2014": "general",
+   "Spring 2015": "advanced",
+   "Fall 2015": "advanced",
+   "Total": 2
+ },
+ {
+   "Calculus": "yes",
+   "Fall 2014": "advanced",
+   "Spring 2015": "general",
+   "Fall 2015": "general",
+   "Total": 22
+ },
+ {
+   "Calculus": "no",
+   "Fall 2014": "general",
+   "Spring 2015": "general",
+   "Fall 2015": "moderate",
+   "Total": 30
+ },
+ {
+   "Calculus": "yes",
+   "Fall 2014": "moderate",
+   "Spring 2015": "none",
+   "Fall 2015": "moderate",
+   "Total": 21
+ },
+ {
+   "Calculus": "no",
+   "Fall 2014": "moderate",
+   "Spring 2015": "general",
+   "Fall 2015": "general",
+   "Total": 136
+ },
+ {
+   "Calculus": "yes",
+   "Fall 2014": "advanced",
+   "Spring 2015": "advanced",
+   "Fall 2015": "moderate",
+   "Total": 15
+ },
+ {
+   "Calculus": "no",
+   "Fall 2014": "moderate",
+   "Spring 2015": "none",
+   "Fall 2015": "general",
+   "Total": 9
+ },
+ {
+   "Calculus": "no",
+   "Fall 2014": "general",
+   "Spring 2015": "general",
+   "Fall 2015": "none",
+   "Total": 6
+ },
+ {
+   "Calculus": "yes",
+   "Fall 2014": "general",
+   "Spring 2015": "none",
+   "Fall 2015": "none",
+   "Total": 3
+ },
+ {
+   "Calculus": "yes",
+   "Fall 2014": "advanced",
+   "Spring 2015": "advanced",
+   "Fall 2015": "general",
+   "Total": 15
+ },
+ {
+   "Calculus": "yes",
+   "Fall 2014": "moderate",
+   "Spring 2015": "general",
+   "Fall 2015": "general",
+   "Total": 19
+ },
+ {
+   "Calculus": "no",
+   "Fall 2014": "advanced",
+   "Spring 2015": "advanced",
+   "Fall 2015": "general",
+   "Total": 21
+ },
+ {
+   "Calculus": "no",
+   "Fall 2014": "moderate",
+   "Spring 2015": "general",
+   "Fall 2015": "moderate",
+   "Total": 3
+ },
+ {
+   "Calculus": "no",
+   "Fall 2014": "moderate",
+   "Spring 2015": "advanced",
+   "Fall 2015": "advanced",
+   "Total": 16
+ },
+ {
+   "Calculus": "no",
+   "Fall 2014": "general",
+   "Spring 2015": "none",
+   "Fall 2015": "none",
+   "Total": 12
+ },
+ {
+   "Calculus": "yes",
+   "Fall 2014": "advanced",
+   "Spring 2015": "none",
+   "Fall 2015": "general",
+   "Total": 1
+ },
+ {
+   "Calculus": "yes",
+   "Fall 2014": "moderate",
+   "Spring 2015": "advanced",
+   "Fall 2015": "general",
+   "Total": 2
+ },
+ {
+   "Calculus": "yes",
+   "Fall 2014": "general",
+   "Spring 2015": "general",
+   "Fall 2015": "moderate",
+   "Total": 13
+ },
+ {
+   "Calculus": "yes",
+   "Fall 2014": "moderate",
+   "Spring 2015": "general",
+   "Fall 2015": "advanced",
+   "Total": 1
+ },
+ {
+   "Calculus": "yes",
+   "Fall 2014": "advanced",
+   "Spring 2015": "general",
+   "Fall 2015": "advanced",
+   "Total": 1
+ },
+ {
+   "Calculus": "yes",
+   "Fall 2014": "advanced",
+   "Spring 2015": "moderate",
+   "Fall 2015": "general",
+   "Total": 1
+ },
+ {
+   "Calculus": "yes",
+   "Fall 2014": "advanced",
+   "Spring 2015": "none",
+   "Fall 2015": "none",
+   "Total": 6
+ },
+ {
+   "Calculus": "yes",
+   "Fall 2014": "moderate",
+   "Spring 2015": "none",
+   "Fall 2015": "none",
+   "Total": 6
+ },
+ {
+   "Calculus": "yes",
+   "Fall 2014": "moderate",
+   "Spring 2015": "general",
+   "Fall 2015": "moderate",
+   "Total": 1
+ },
+ {
+   "Calculus": "no",
+   "Fall 2014": "general",
+   "Spring 2015": "none",
+   "Fall 2015": "moderate",
+   "Total": 5
+ },
+ {
+   "Calculus": "no",
+   "Fall 2014": "advanced",
+   "Spring 2015": "general",
+   "Fall 2015": "advanced",
+   "Total": 2
+ },
+ {
+   "Calculus": "yes",
+   "Fall 2014": "general",
+   "Spring 2015": "advanced",
+   "Fall 2015": "advanced",
+   "Total": 5
+ },
+ {
+   "Calculus": "no",
+   "Fall 2014": "general",
+   "Spring 2015": "moderate",
+   "Fall 2015": "general",
+   "Total": 2
+ },
+ {
+   "Calculus": "no",
+   "Fall 2014": "general",
+   "Spring 2015": "general",
+   "Fall 2015": "advanced",
+   "Total": 2
+ },
+ {
+   "Calculus": "yes",
+   "Fall 2014": "advanced",
+   "Spring 2015": "general",
+   "Fall 2015": "moderate",
+   "Total": 1
+ },
+ {
+   "Calculus": "no",
+   "Fall 2014": "moderate",
+   "Spring 2015": "moderate",
+   "Fall 2015": "none",
+   "Total": 2
+ },
+ {
+   "Calculus": "yes",
+   "Fall 2014": "general",
+   "Spring 2015": "moderate",
+   "Fall 2015": "general",
+   "Total": 1
+ },
+ {
+   "Calculus": "yes",
+   "Fall 2014": "advanced",
+   "Spring 2015": "general",
+   "Fall 2015": "none",
+   "Total": 1
+ },
+ {
+   "Calculus": "no",
+   "Fall 2014": "general",
+   "Spring 2015": "advanced",
+   "Fall 2015": "general",
+   "Total": 1
+ },
+ {
+   "Calculus": "no",
+   "Fall 2014": "moderate",
+   "Spring 2015": "none",
+   "Fall 2015": "none",
+   "Total": 6
+ },
+ {
+   "Calculus": "yes",
+   "Fall 2014": "general",
+   "Spring 2015": "none",
+   "Fall 2015": "moderate",
+   "Total": 2
+ },
+ {
+   "Calculus": "no",
+   "Fall 2014": "advanced",
+   "Spring 2015": "moderate",
+   "Fall 2015": "general",
+   "Total": 2
+ },
+ {
+   "Calculus": "yes",
+   "Fall 2014": "general",
+   "Spring 2015": "general",
+   "Fall 2015": "advanced",
+   "Total": 3
+ },
+ {
+   "Calculus": "yes",
+   "Fall 2014": "moderate",
+   "Spring 2015": "moderate",
+   "Fall 2015": "none",
+   "Total": 1
+ },
+ {
+   "Calculus": "no",
+   "Fall 2014": "advanced",
+   "Spring 2015": "general",
+   "Fall 2015": "moderate",
+   "Total": 1
+ },
+ {
+   "Calculus": "yes",
+   "Fall 2014": "general",
+   "Spring 2015": "moderate",
+   "Fall 2015": "advanced",
+   "Total": 1
+ },
+ {
+   "Calculus": "yes",
+   "Fall 2014": "advanced",
+   "Spring 2015": "moderate",
+   "Fall 2015": "advanced",
+   "Total": 1
+ },
+ {
+   "Calculus": "no",
+   "Fall 2014": "moderate",
+   "Spring 2015": "general",
+   "Fall 2015": "none",
+   "Total": 1
+ },
+ {
+   "Calculus": "no",
+   "Fall 2014": "advanced",
+   "Spring 2015": "none",
+   "Fall 2015": "moderate",
+   "Total": 1
+ },
+ {
+   "Calculus": "yes",
+   "Fall 2014": "general",
+   "Spring 2015": "none",
+   "Fall 2015": "advanced",
+   "Total": 1
+ },
+ {
+   "Calculus": "no",
+   "Fall 2014": "moderate",
+   "Spring 2015": "none",
+   "Fall 2015": "advanced",
+   "Total": 1
+ },
+ {
+   "Calculus": "no",
+   "Fall 2014": "advanced",
+   "Spring 2015": "none",
+   "Fall 2015": "none",
+   "Total": 2
+ },
+ {
+   "Calculus": "yes",
+   "Fall 2014": "general",
+   "Spring 2015": "advanced",
+   "Fall 2015": "general",
+   "Total": 1
+ },
+ {
+   "Calculus": "no",
+   "Fall 2014": "advanced",
+   "Spring 2015": "none",
+   "Fall 2015": "general",
+   "Total": 1
+ }
+]

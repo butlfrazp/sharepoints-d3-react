@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
-import ParallelSet from './components/parallelSet';
+import Home from './components/Home';
 import {
   Header
 } from './components/common';
@@ -12,6 +12,15 @@ export default class App extends Component {
 
     };
   }
+
+  componentDidMount() {
+    this.test();
+  }
+
+  test() {
+    return "test";
+  }
+
     render() {
       const {
         app
@@ -19,8 +28,7 @@ export default class App extends Component {
         return (
           <MuiThemeProvider>
             <div style={ app }>
-              <Header />
-              <ParallelSet />
+              <Home />
             </div>
           </MuiThemeProvider>
         )

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <script>
+      $(document).ready(function() {
+        $.ajax({
+        url: "https://analytics.asu.edu/sandbox/Pages/Paul%20Butler/test.txt",
+        method: "POST",
+        body: "Contents of file.",
+        Headers:  {
+           " X-HTTP-Method":"PUT"
+        },
+        success: readContents,
+        error: errorHandler,
+        })
+        function readContents(e) {
+        console.log(e)
+        }
+        function errorHandler(e) {
+        console.log(e)
+        }
+      });
+    </script>
+  </body>
+</html>

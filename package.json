@@ -23,11 +23,15 @@
     "webpack-dev-server": "^3.1.1"
   },
   "dependencies": {
-    "d3": "^5.0.0",
+    "d3": "^4.13.0",
+    "d3-drag": "^1.2.1",
     "e": "0.0.4",
+    "jquery": "^3.3.1",
+    "jsdom": "^11.7.0",
     "material-ui": "^0.20.0",
     "raf": "^3.4.0",
     "react": "^16.3.0",
-    "react-dom": "^16.3.0"
+    "react-dom": "^16.3.0",
+    "react-faux-dom": "^4.1.0"
   }
 }

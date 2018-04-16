@@ -1,22 +1,42 @@
 import * as d3 from 'd3';
-var dataset = require('./datasets/convertcsv-2.json');
 import parsets from './d3.parsets';
+import React, {Component} from 'react';
+import ReactFauxDOM from 'react-faux-dom';
 
-export const createGraph = () => {
-  var chart = parsets();
-  var width = parseInt(d3.select("#psets").style("width")),
-  height = parseInt(d3.select("#psets").style("height"));
+export default class d3Parset extends Component {
 
-  var viz = d3.select("#psets")
-    .attr("width", width)
-    .attr("height", height);
-    var data = dataset;
-    var keys = Object.keys(data[0]);
-    console.log(keys);
-    console.log(keys.splice(0, 1));
-    chart.dimensions(keys);
-    chart.value(function(d) {
-      return d.Total;
-    });
-    viz.datum(data).call(chart);
+  drawChart(totalType) {
+    const data = this.props.data;
+    const element = new ReactFauxDOM.Element('div');
+
+    element.setAttribute("ref", "chart");
+
+
+    var chart = d3.parsets();
+    var width = parseInt(d3.select(element).style("width")),
+    height = parseInt(d3.select(element).style("height"));
+    var viz = d3.select(element)
+      .append('svg')
+      .attr("width", 900)
+      .attr("height", 900);
+      var keys = Object.keys(this.props.data[0]);
+      chart.dimensions(keys);
+      chart.value(function(d) {
+        if (d.Count != null) {
+          return d.Count;
+        }else if (d.Total != null) {
+          return d.Total;
+        }
+        return d.Total;
+      });
+      viz.datum(this.props.data).call(chart);
+
+    return element.toReact();
+  }
+
+  render() {
+    return (
+      this.drawChart(this.props.totalType)
+    )
+  }
 }

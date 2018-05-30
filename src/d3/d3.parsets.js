@@ -217,7 +217,6 @@ d3.parsets = function() {
       }
 
       function updateRibbons() {
-        console.log("Paul: Hit");
         ribbon = g.select(".ribbon").selectAll("path")
             .data(nodes, function(d) { return d.path; });
         ribbon.enter().append("path")
@@ -276,7 +275,6 @@ d3.parsets = function() {
 
       // Highlight a node and its descendants, and optionally its ancestors.
       function highlight(d, ancestors) {
-        console.log("hit");
         if (dragging) return;
         var highlight = [];
         (function recurse(d) {
@@ -323,7 +321,6 @@ d3.parsets = function() {
                 d.x0 = d.x;
               })
               .on("drag", function(d) {
-                console.log("hit");
                 d.x = d3.event.x;
                 var categories = d.dimension.categories;
                 for (var i = 0, c = categories[0]; ++i < categories.length;) {
@@ -593,7 +590,6 @@ function autoDimensions(d) {
 }
 
 function cancelEvent() {
-  console.log(d3.event);
   d3.event.stopPropagation();
   d3.event.preventDefault();
 }

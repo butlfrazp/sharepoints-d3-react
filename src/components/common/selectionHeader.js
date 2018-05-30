@@ -9,8 +9,7 @@ const SelectionHeader = (props) => {
 
   return (
     <div>
-      <h1>Sample D3 Charts</h1>
-      {props.renderButtons}
+      <h1>Parallel Set D3 Chart Creater</h1>
     </div>
   )
 }
